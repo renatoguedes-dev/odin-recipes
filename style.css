@@ -1,0 +1,31 @@
+h1 {
+  background-color: rgb(189, 3, 3);
+  color: white;
+  font-family: "Times New Roman", Verdana, sans-serif;
+  font-size: 50px;
+}
+
+ul, ol {
+  font-size: 18px;
+}
+
+h3 {
+  background-color: rgb(39, 151, 189);
+  color: white;
+  font-family: Garamond, Georgia;
+  font-size: 21px;
+}
+
+p {
+  font-size: 19px;
+}
+
+h2 {
+  color: rgb(189, 3, 3);
+  font-size: 28px;
+}
+
+.menu {
+  font-size: 28px;
+  font-family: "Brush Script MT";
+}
