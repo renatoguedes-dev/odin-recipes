@@ -5,8 +5,18 @@ h1 {
   font-size: 50px;
 }
 
-ul, ol {
+ul {
   font-size: 18px;
+  padding-left: 0;
+  display: inline-block;
+  text-align: left;
+}
+
+ol {
+  font-size: 18px;
+  padding-left: 0;
+  display: inline-block;
+  text-align: left;
 }
 
 h3 {
@@ -28,4 +38,8 @@ h2 {
 .menu {
   font-size: 28px;
   font-family: "Brush Script MT";
+}
+
+body {
+  text-align: center;
 }
